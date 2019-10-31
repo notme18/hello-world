@@ -1,5 +1,5 @@
 # hello-world
-collaboration project
+collaboration project:
 
 this project is an open space for any  feedback, collaborstion oppourtunities, and constructive criticism. 
 
